@@ -271,7 +271,9 @@ I loveeeeeeeeee youuuuuuu sooooooo much babyy.💓😚💋
               <motion.p
                 className="text-3xl md:text-4xl text-pink-300 font-semibold"
               >
-                Forever✨
+                Forever myy babyy 😚 
+                Loveeeeeee youuuu sooooooo sooooooo muchhhhh mineeeee babyyy.💗😚💋 
+
               </motion.p>
             </motion.div>
           </motion.div>
