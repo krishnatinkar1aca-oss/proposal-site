@@ -1,3 +1,4 @@
+
 "use client"
   
 import { useState, useEffect } from "react"
@@ -52,9 +53,9 @@ export default function ProposalSite() {
           />
         )}
 
-        {currentScreen === "balloons" && <BalloonsScreen key="balloons" onNext={() => nextScreen("photos")} />}
+        {currentScreen === "balloons" && <BalloonsScreen key="balloons" onNext={() => nextScreen("final")} />}
 
-        {currentScreen === "photos" && <PhotoScreen key="photos" onNext={() => nextScreen("final")} />}
+        
 
         {currentScreen === "final" && <FinalScreen key="final" />}
       </AnimatePresence>
