@@ -12,18 +12,20 @@ export default function FinalScreen() {
   const [showOverlay, setShowOverlay] = useState(false)
   const messageRef = useRef(null)
 
-  const proposalMessage = `From the moment you came into my life, everything started to change.  
-You brought colors to my ordinary days, warmth to my silence, and a happiness I didn’t even know I was missing.  
+  const proposalMessage = `Mere pyariii janemann 💗😚
+From the moment you came into my life, everything started to change.
+You brought colours to my ordinary days,warmth to my silence, and a happiness I didn't even know I was missing.
 
 Every sunrise feels brighter because of you.  
 Every dream feels possible because you inspire me.  
 Every challenge feels easier because I imagine you by my side.  
 
-You are not just my friend, you’re the most special part of my life.  
+You are not just my bestfriend, you’re the most special part of my life.  
 You make me smile, you make my heart race, and you make me want to be a better version of myself.  
 
 I don’t know what the future holds, but I know one thing for sure.
-I want that future with you.`
+I want that future with you. Mere jannn
+I loveeeeeeeeee youuuuuuu sooooooo much babyy.💓😚💋 
 
   useEffect(() => {
     if (cardOpen && !typingComplete) {
